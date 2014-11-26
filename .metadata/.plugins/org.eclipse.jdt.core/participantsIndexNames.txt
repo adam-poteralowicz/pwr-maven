@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+/home/ms/maven/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2072667191.index
+/ejb/src/test/java
+/home/ms/maven/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/382361107.index
+/model/src/test/java

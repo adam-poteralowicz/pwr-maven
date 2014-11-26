@@ -1,0 +1,5 @@
+package eu.jpereira.trainings.designpatterns.structural.adapter.thirdparty;
+
+public class ThirdPartyDoorAdapterTest extends DoorTest{
+
+}
